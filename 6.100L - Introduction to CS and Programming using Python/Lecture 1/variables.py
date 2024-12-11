@@ -47,3 +47,15 @@
 xy = 3 + 4
 print(xy)  # Output: 7
 print(xy+1)  # Output: 8
+
+
+
+# Why give names to values of expressions?
+# 1) To reuse names instead of variables
+# 2) Makes code easier to read and modify
+
+# Choose variable names wisely
+# 1) Code needs to read
+# 2) Today, tommorow, next year
+# 3) By you and others
+# 4) You'll be fine if you stick to letters, underscores, don't start with a number
