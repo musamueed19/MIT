@@ -59,3 +59,12 @@ print(xy+1)  # Output: 8
 # 2) Today, tommorow, next year
 # 3) By you and others
 # 4) You'll be fine if you stick to letters, underscores, don't start with a number
+
+
+# Final Exercise
+# Compute approximate value for PI
+pi = 355 / 113;
+radius = 2.2;
+area = pi * (radius ** 2);
+circumference = pi * (radius * 2);
+print(pi, radius, area, circumference);
