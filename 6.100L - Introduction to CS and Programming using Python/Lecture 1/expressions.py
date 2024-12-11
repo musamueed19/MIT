@@ -29,3 +29,18 @@ print((13-4) / (12 * 12));
 print(type(4*3));
 print(type(4.0*3));     #multiplication with float --- results in float too (not in int)
 print(int(1/2));
+
+
+
+# OPERATORS on int and float
+# +, -, *, /, //, % , **, +=, -=, *=, /=
+
+# i + j -> the sum
+# i - j -> the difference
+# i * j -> the product
+# i / j -> the division
+
+# i // j -> floor division
+# i % j -> the remainder when 'i' is divided by 'j'
+
+# i ** j -> i to the power of j
