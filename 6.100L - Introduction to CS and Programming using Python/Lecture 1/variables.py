@@ -62,9 +62,22 @@ print(xy+1)  # Output: 8
 
 
 # Final Exercise
-# Compute approximate value for PI
+# ----------------------------
+# Compute approximate value for PI - good coding practices
 pi = 355 / 113;
 radius = 2.2;
+
+# finding area of circle = pi*(r^2)
 area = pi * (radius ** 2);
+
+# finding circumference of circle = 2*pi*r
 circumference = pi * (radius * 2);
+
+# printing value of all 4 variables
 print(pi, radius, area, circumference);
+
+
+# ----------------------------
+# bad coding practices
+a = 355/113 * (2.2 ** 2)
+b = 355/113 * (2.2 * 2)
