@@ -38,9 +38,9 @@ print(int(1/2));
 # i + j -> the sum
 # i - j -> the difference
 # i * j -> the product
-# i / j -> the division
+# i / j -> the division  (always get float)
 
-# i // j -> floor division
-# i % j -> the remainder when 'i' is divided by 'j'
+# i // j -> floor division  (always gets int)
+# i % j -> the remainder when 'i' is divided by 'j' (always gets int or whole number) 
 
-# i ** j -> i to the power of j
+# i ** j -> i to the power of j (exponentiation like --- i ^ j)
