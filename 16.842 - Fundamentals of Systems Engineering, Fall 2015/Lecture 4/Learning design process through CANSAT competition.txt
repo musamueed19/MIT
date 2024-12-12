@@ -1,0 +1,56 @@
+In order to anchor the class to provide an application - that is
+
+1) Realistic
+2) not Overaly Complex
+
+
+we choose to participate in the 2016 CANSAT competition.
+
+- CANSAT as the name stands - it is a design of a satellite, that has to be fit in CAN, which is launched not into the space.
+
+- But at relatively High altitude with a sounding rocket, essentially.
+
+- CANSAT competition is running about 20 years, it is quite well known, and teams are participating from all over the world.
+
+- CANSAT competition is in the US, there is also the European version of it.
+
+----------------------------------
+Goal of CANSAT competition:
+1) For students to go step-by-step through design process.
+
+The starting point of the students is the set of requirements. 47 requirements that are given by the organizer.
+
+That what the particular system has to do. For Example,
+the CANSAT has to fit within the payload fairing of the rocket. It has survive the load the launch.
+
+So a certain number of "g loads" and "vibrations" have to be survivable by the payload.
+
+The payload then has to separate into both the glider portion and the actual container that contains the payload.
+
+On its way down, the payload has to fly in a circular pattern, for about the 2 minutes.
+
+*) During the descent it has to record temperature, and pressure of the atmosphere.
+*) You get extra bonus points, if you record images, and transmit those images to the ground.
+
+*) The students are responsible for the everything except the rocket itself.
+1) The design of the glider
+2) The container
+3) The ground position
+4) All the procedures
+
+Interesting about system engineering, and design - is there are different approaches, how to tackle the problem.
+
+1) One is the approache where we take it step-by-step, and you try to basically get the right answer at every step. But at some step you has to check yourself at some point with the milestones.
+
+2) Waterfall or Stage Gate process:
+which is applied in very large systems, where it's to expensive to do a lot of prototypes, and you have to get it right the first time.
+
+3) Spiral Development or Agile (Rapid) Developemnt:
+Where you do quick prototypes, and you learn very quickly, and iterate your design.
+
+In some sense we are doing in this class is a combination of two.
+1) How students ideated their concepts
+2) Always keep in mind the requirements and end goals.
+3) Test those ideas either through model and simulation, or with very simple prototypes that can be made out of paper. For Example, that one team actually porduced the 3D printed version of the glider - even through that wasn't officially necessary before the key milestone (Which is the PDR).
+
+4) What's interesting is that how every team approached it slightly differently.
