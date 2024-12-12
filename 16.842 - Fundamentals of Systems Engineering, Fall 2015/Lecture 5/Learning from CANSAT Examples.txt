@@ -1,0 +1,17 @@
+1) One of the key way of learning, is at the examples, past examples of both successful & failed projects or designs.
+
+2) What we find at system engineering - often problems begin at the requirements stage.
+For Example,
+a) requirements are missing
+b) there is redundancy
+c) in some cases - requirements are written that are overly ambitious
+
+3) Utopian given the time frame and the Budget avaiable
+4) So what you have is always a tradeoff between
+a) how ambitious your are technically
+b) schedule - how much time you have
+c) Budget that is available
+d) How much you are willing to take the risk
+
+5) Students are pushing the envelope - what is feasible, & what's not feasible, & what we can learn from past failures
+
